@@ -1,9 +1,6 @@
 <?php
 
-$name = "";
-$email = "";
-$phone = "";
-$message = "";
+
 
 
 
