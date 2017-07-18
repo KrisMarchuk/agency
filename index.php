@@ -1,12 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+    <html lang="en">
 
-<head>
+    <head>
+        <title></title>
 
-</head>
+            <link rel="stylesheet" href="css/screen.css">
+    </head>
 
-<body>
-<div class="form">
+    <body>
+  <div class="container-fluid">
+   <div class="row">
+                <div class="col-lg-12">
+	<div class="form">
       
       <ul class="tab-group">
         <li class="tab active"><a href="#signup">Sign Up</a></li>
@@ -85,7 +90,13 @@
       </div><!-- tab-content -->
       
 </div> <!-- /form -->
-        
-</body>
+</div>
+</div>
+</div>
 
-</html>
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/form_login.js"></script>
+    </body>
+
+    </html>
