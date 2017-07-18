@@ -6,9 +6,6 @@ $phone = "";
 $message = "";
 
 
-$color_name ="";
-$color_email ="";
-$color_firma ="";
 
 
 if(isset($_POST['submit'])) {
