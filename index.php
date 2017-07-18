@@ -3,7 +3,6 @@
 $name = "";
 $email = "";
 $phone = "";
-$firma = "";
 $message = "";
 
 
